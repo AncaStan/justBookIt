@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/justBookIt/static/media/Catalin.8896f9bb.jpg"
   },
   {
-    "revision": "41acf8150cdbaba2a637",
-    "url": "/justBookIt/static/css/main.4ba4be85.chunk.css"
+    "revision": "03a39889ec4da9ddedd4",
+    "url": "/justBookIt/static/css/main.1fa9e350.chunk.css"
   },
   {
     "revision": "4b2ee07732971ef37b3d",
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/justBookIt/static/media/Radu.bab1d424.jpg"
   },
   {
-    "revision": "41acf8150cdbaba2a637",
-    "url": "/justBookIt/static/js/main.41acf815.chunk.js"
+    "revision": "03a39889ec4da9ddedd4",
+    "url": "/justBookIt/static/js/main.03a39889.chunk.js"
   },
   {
     "revision": "7852f67de128e1d702a4eff6d68c4c27",
@@ -40,15 +40,15 @@ self.__precacheManifest = [
     "url": "/justBookIt/static/media/metrics.abdcf485.jpg"
   },
   {
-    "revision": "a8ccfd3835fd874db7af4fe4c13a233a",
-    "url": "/justBookIt/static/media/socialmediametrics.a8ccfd38.jpg"
+    "revision": "86fca744548e9c0100cda32603777a0f",
+    "url": "/justBookIt/static/media/revenueStreams.86fca744.png"
   },
   {
     "revision": "8df0521add6813427dd0421cddd4f59a",
     "url": "/justBookIt/static/media/wallpaper.8df0521a.jpg"
   },
   {
-    "revision": "dcf70c32df847fb89fa01ecbbf803b4b",
+    "revision": "4122f083122377d6bd55174872cbaa46",
     "url": "/justBookIt/index.html"
   }
 ];
