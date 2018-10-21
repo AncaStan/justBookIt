@@ -1,7 +1,7 @@
 {
-  "main.css": "/justBookIt/static/css/main.1fa9e350.chunk.css",
-  "main.js": "/justBookIt/static/js/main.03a39889.chunk.js",
-  "main.js.map": "/justBookIt/static/js/main.03a39889.chunk.js.map",
+  "main.css": "/justBookIt/static/css/main.6b7e7121.chunk.css",
+  "main.js": "/justBookIt/static/js/main.30d72694.chunk.js",
+  "main.js.map": "/justBookIt/static/js/main.30d72694.chunk.js.map",
   "static/js/1.4b2ee077.chunk.js": "/justBookIt/static/js/1.4b2ee077.chunk.js",
   "static/js/1.4b2ee077.chunk.js.map": "/justBookIt/static/js/1.4b2ee077.chunk.js.map",
   "runtime~main.js": "/justBookIt/static/js/runtime~main.c7039aec.js",
@@ -11,11 +11,11 @@
   "static/media/Daniel.jpg": "/justBookIt/static/media/Daniel.7852f67d.jpg",
   "static/media/Paul.jpg": "/justBookIt/static/media/Paul.8e1ac8f3.jpg",
   "static/media/metrics.jpg": "/justBookIt/static/media/metrics.abdcf485.jpg",
-  "static/media/revenueStreams.png": "/justBookIt/static/media/revenueStreams.86fca744.png",
+  "static/media/revenue.png": "/justBookIt/static/media/revenue.86fca744.png",
   "static/media/App.css": "/justBookIt/static/media/wallpaper.8df0521a.jpg",
   "static/media/Radu.jpg": "/justBookIt/static/media/Radu.bab1d424.jpg",
-  "static/css/main.1fa9e350.chunk.css.map": "/justBookIt/static/css/main.1fa9e350.chunk.css.map",
+  "static/css/main.6b7e7121.chunk.css.map": "/justBookIt/static/css/main.6b7e7121.chunk.css.map",
   "index.html": "/justBookIt/index.html",
-  "precache-manifest.b205bcf29dc0e64c2470ec3d4754d24e.js": "/justBookIt/precache-manifest.b205bcf29dc0e64c2470ec3d4754d24e.js",
+  "precache-manifest.aea7e73f23250619c2d8ead0e7f2d181.js": "/justBookIt/precache-manifest.aea7e73f23250619c2d8ead0e7f2d181.js",
   "service-worker.js": "/justBookIt/service-worker.js"
 }
