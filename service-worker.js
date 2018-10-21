@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/justBookIt/precache-manifest.354de072fa8d95c1f27cd1272f3f74c3.js"
+  "/justBookIt/precache-manifest.a8e880fb9622170ca875f29072251410.js"
 );
 
 workbox.clientsClaim();
